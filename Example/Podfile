@@ -1,0 +1,6 @@
+use_frameworks!
+target 'optitestcore_Tests' do
+  pod 'optitestcore', :path => '../'
+  
+  
+end

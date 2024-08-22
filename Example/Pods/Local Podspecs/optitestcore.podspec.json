@@ -1,0 +1,22 @@
+{
+  "name": "optitestcore",
+  "version": "0.1.0",
+  "summary": "A short description of optitestcore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/a-karthi/optitestcore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "a-karthi": "karthikeyanaathimo@adt.com"
+  },
+  "source": {
+    "git": "https://github.com/a-karthi/optitestcore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "optitestcore/Classes/**/*"
+}
